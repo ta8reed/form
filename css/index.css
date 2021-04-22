@@ -1,0 +1,150 @@
+body{
+    height:3000px;
+}
+.for
+{
+    
+    margin:0px auto;
+
+}
+.for .sec-left
+{
+    border:1px solid #A0D2E4;
+    background-color: #A0D2E4;
+    height:650px;
+   /* border-radius: 30px 0 0 30px ;*/
+   box-shadow: 0 14px 28px rgba(0,0,0,0.25);
+   
+} 
+.for .sec-left .logo
+{
+    width:30%;
+    margin-top: 15px;
+}
+
+.for .sec-right
+{
+    border:1px solid #dde5fa;
+    height: 650px;
+    background-color: #071238;
+    
+    
+} 
+.sec-right .h1{
+    font-size: 35px;
+    font-weight: bolder;
+    color:#dde5fa;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+/*********************************************************************\
+/*right*/
+.card1{
+    margin-top:50px;
+    background: none;
+    border:none;
+}
+.card-title {
+    margin-bottom: 2rem;
+    font-size: 50px;
+    font-weight: bolder;
+    color:#071238;
+}
+.for .sec-left p {
+    font-size: 20px;
+     color:black; 
+     margin-bottom: 3rem;
+     color:#071238;
+}
+label {
+    color:#676f86;
+}
+.card-img, .card-img-bottom {
+    border-bottom-right-radius: calc(.25rem - 1px);
+    border-bottom-left-radius: calc(.25rem - 1px);
+    width:50%;
+    height:200px;
+    margin-left: 125px;
+}
+.question{
+    display: none;
+}
+.question .ques,
+.question .three-ques{
+    display:none; 
+}
+
+/*-------*/
+.form-control{
+    background:none;
+    border:none;
+    border-bottom: 1px solid rgb(65, 88, 117);
+}
+.custom-control {
+    position: relative;
+    display: block;
+    min-height: 1.5rem;
+    padding-left: 1.5rem;
+    padding-bottom:3%;
+}
+
+.card-img-top{
+    width:100%;
+    height: 250px!important;
+    border:none;
+  
+}
+.btn-primary{
+    margin:0 10px;
+    width:90px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
